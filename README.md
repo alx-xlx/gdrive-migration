@@ -1,5 +1,7 @@
 # GDrive Migration
  Google Drive Migration
+ 
+ ![](https://img.shields.io/badge/dynamic/json?color=green&label=Total Clone&query=count&url=https%3A%2F%2Fviralcourse.online%2Ftools%2Fgithub-clone-status%2Fclone-gdrive-migration.php)
 
 I was tired of copying each file from one folder to another. So I built this to make it chop chop
 
